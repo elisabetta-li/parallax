@@ -3,4 +3,4 @@
 - CSS
 - JS
 
-Can you view [my project](https://elisabetta-li.github.io/parallax/)
+You can view [my project](https://elisabetta-li.github.io/parallax/)
